@@ -54,3 +54,4 @@ obj.insert(Record("Jane", 202))
 obj.insert(Record("Mary", 303))
 obj.insert(Record("Mike", 404))
 obj.insert(Record("Kite", 500))
+
